@@ -1,0 +1,4 @@
+PARKING_SPOT_ID,NAME,DESCRIPTION,LATITUDE,LONGITUDE,IS_INCENTIVE,HAS_MAX_CAPACITY,CAPACITY
+"3e9a471c-300f-4bf0-9f1d-d2b9530774cc",maxcapacity_hub218,"Rack, Max Capacity, (merged)",50.903139449,-1.403667763,false,true,15
+"bf3dae52-6b5f-41e8-84d6-df34ce9647c4",maxcapacity_hub001,"Max Capacity",50.908050968,-1.412652427,false,true,40
+"2e8e576e-d47f-460c-9f18-8e8c9d73b760","74 Warburton Road","Max Capacity",50.904254523,-1.332161246,false,true,8

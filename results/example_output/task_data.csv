@@ -1,0 +1,5 @@
+task_id,task_type,bounty,vehicle_id,priority,lon,lat,target_time,created_time,status,bounty_time,resolved_by,resolved_time,time_spent,distance_driven,time_open,battery_in,battery_out
+0,battery_swap,0,0,None,-1.3938,50.90709,None,173995,resolved,None,0,174040,40,0,45,0.234,0.234
+1,battery_swap,0,1,None,-1.36504,50.90797,None,303598,resolved,None,0,304669,1059,3914,1071,0.222,0.221
+2,battery_swap,0,0,None,-1.3938,50.90709,None,562795,resolved,None,0,563869,1050,3875,1074,0.214,0.213
+3,battery_swap,0,1,None,-1.36504,50.90797,None,692398,resolved,None,0,693478,1059,3914,1080,0.214,0.214
